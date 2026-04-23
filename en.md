@@ -1,12 +1,12 @@
 # Alex Lin
 
-## Senior Frontend Engineer
+## Senior Engineer
 
-[LinkedIn](https://www.linkedin.com/in/alexcllin/) | [GitHub](https://github.com/AlexLin-hub) | unclelin2020@gmail.com | +886 963 975 057
+[LinkedIn](https://www.linkedin.com/in/alexcllin/) | [GitHub](https://github.com/AlexLin-hub) | unclelin2020@gmail.com
 
 ## PROFESSIONAL SUMMARY
 
-Senior Frontend Engineer with 7 years of experience architecting scalable enterprise applications and driving digital transformation. Expert in the Vue.js ecosystem, TypeScript, and modern UI architecture, with a proven track record of reducing development cycles by 60%+ through modularization and schema-driven designs. Passionate about applying emerging technologies, currently prototyping an independent B2B AI solution to streamline enterprise-grade workflows and intent parsing for the luxury aviation industry.
+Senior Engineer with 7 years of experience architecting scalable enterprise applications and driving digital transformation. Expert in the Vue.js ecosystem, TypeScript, and modern UI architecture, with a proven track record of reducing development cycles by 60%+ through modularization and schema-driven designs. Passionate about applying emerging technologies, currently prototyping an independent B2B AI solution to streamline enterprise-grade workflows and intent parsing for the luxury aviation industry.
 
 ## CORE SKILLS
 
@@ -19,7 +19,7 @@ Senior Frontend Engineer with 7 years of experience architecting scalable enterp
 ### Senior Engineer | STARLUX Airlines Co., Ltd. | Taipei, Taiwan | 2021 – Present
 
 - **Engineered the frontend for the Bonded Warehouse Management System (SWMS)**. Developed comprehensive data grids and inventory interfaces to manage inbound/outbound workflows, enabling the procurement team to accurately track stock levels and optimize restocking strategies.
-- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving 300+ global staff, and fleet-wide Apron & Aviation Fuel Management systems.
+- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving 1,300+ global staff, and fleet-wide Apron & Aviation Fuel Management systems.
 - **Designed and implemented a Schema-Driven UI module** for internal email communications using JSON configurations. Enhanced modular reusability, reducing development and refactoring time by 66% (from 1 hour to 20 minutes per template).
 - **Led a team in a large-scale migration** of legacy shared modules to Vue 3, TypeScript, Tailwind CSS, and Vitest. Established strict coding standards and modernized development workflows, seamlessly integrating with existing CI/CD pipelines to ensure code quality and improve team velocity.
 
