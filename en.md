@@ -19,7 +19,7 @@ Senior Frontend Engineer with 7 years of experience architecting scalable enterp
 ### Senior Engineer | STARLUX Airlines Co., Ltd. | Taipei, Taiwan | 2021 – Present
 
 - **Engineered the frontend for the Bonded Warehouse Management System (SWMS)**. Developed comprehensive data grids and inventory interfaces to manage inbound/outbound workflows, enabling the procurement team to accurately track stock levels and optimize restocking strategies.
-- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving 300+ global staff, and fleet-wide Apron & Aviation Fuel Management systems.
+- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving 1,300+ global staff, and fleet-wide Apron & Aviation Fuel Management systems.
 - **Designed and implemented a Schema-Driven UI module** for internal email communications using JSON configurations. Enhanced modular reusability, reducing development and refactoring time by 66% (from 1 hour to 20 minutes per template).
 - **Led a team in a large-scale migration** of legacy shared modules to Vue 3, TypeScript, Tailwind CSS, and Vitest. Established strict coding standards and modernized development workflows, seamlessly integrating with existing CI/CD pipelines to ensure code quality and improve team velocity.
 
