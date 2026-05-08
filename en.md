@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Senior Engineer with 7 years of experience architecting scalable enterprise applications and driving digital transformation. Expert in the Vue.js ecosystem, TypeScript, and modern UI architecture, with a proven track record of reducing development cycles by 60%+ through modularization and schema-driven designs. Passionate about applying emerging technologies, currently prototyping an independent B2B AI solution to streamline enterprise-grade workflows and intent parsing for the luxury aviation industry.
+Senior Engineer with 7 years of experience architecting scalable enterprise applications and driving digital transformation. Expert in the Vue.js ecosystem, TypeScript, and modern UI architecture, with a proven track record of reducing development cycles by 60%+ through modularization and schema-driven designs. Passionate about emerging technologies, currently developing a personal experimental proof-of-concept (POC) to explore the integration of AI intent parsing and event-driven workflows, aiming to provide automated technical solutions for premium business travel.
 
 ## CORE SKILLS
 
@@ -18,23 +18,23 @@ Senior Engineer with 7 years of experience architecting scalable enterprise appl
 
 ### Senior Engineer | STARLUX Airlines Co., Ltd. | Taipei, Taiwan | 2021 – Present
 
-- **Engineered the frontend for the Bonded Warehouse Management System (SWMS)**. Developed comprehensive data grids and inventory interfaces to manage inbound/outbound workflows, enabling the procurement team to accurately track stock levels and optimize restocking strategies.
-- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving 1,300+ global staff, and fleet-wide Apron & Aviation Fuel Management systems.
-- **Designed and implemented a Schema-Driven UI module** for internal email communications using JSON configurations. Enhanced modular reusability, reducing development and refactoring time by 66% (from 1 hour to 20 minutes per template).
-- **Led a team in a large-scale migration** of legacy shared modules to Vue 3, TypeScript, Tailwind CSS, and Vitest. Established strict coding standards and modernized development workflows, seamlessly integrating with existing CI/CD pipelines to ensure code quality and improve team velocity.
+- **Engineered the frontend for the Bonded Warehouse Management System (SWMS)**. Developed comprehensive data grids and inventory interfaces to accurately track stock levels across various product categories, effectively empowering the bonded goods department to monitor dynamics and optimize restocking decisions.
+- **Architected and delivered mission-critical enterprise systems**, including a company-wide Employee Evaluation platform, an Outstation Portal serving over 1,300 global staff, and fleet-wide Apron Operations, Flight Planning, and Aviation Fuel Contract management systems, ensuring high availability.
+- **Designed and implemented a Schema-Driven UI module** for dynamic internal email rendering using JSON configurations. Enhanced modular reusability and layout flexibility, reducing development and refactoring time from 1 hour to 20 minutes per template, significantly lowering maintenance costs.
+- **Led a team in a large-scale technical migration** of shared modules to Vue 3, TypeScript, Tailwind CSS, and Vitest. Established and promoted team coding standards, seamlessly integrating the refactored code with existing CI/CD pipelines to boost maintainability and delivery speed.
 
 ### Software Engineer | Mit-Wit Ltd. | Taipei, Taiwan | 2019 – 2021
 
-- **Developed the frontend for key digital transformation initiatives**, including mobile payment platforms, automated monthly parking lotteries, and digital parking validation systems, enhancing user experience and streamlining core operational workflows.
-- **Automated a highly manual client onboarding pipeline** by architecting a unified API Key Management System based on the Single Source of Truth (SSOT) principle. This replaced legacy Excel/SQL workflows and reduced integration time from 2 business days to just 15 minutes.
-- **Integrated third-party payment gateways** (LINE Pay, Jkopay, Taiwan Pay) across 30+ parking facilities nationwide in collaboration with FETC, expanding market reach and facilitating seamless, secure transactions.
+- **Developed the frontend for core modules in company digital transformation projects**, including mobile payment platforms, automated monthly parking lotteries, and digital parking validation systems. Implemented high-performance user interfaces to enhance user experience and optimize traditional operational workflows.
+- **Automated the client onboarding pipeline by developing a unified API Key Management System**, implementing the Single Source of Truth (SSOT) architecture. Successfully replaced highly manual legacy Excel/SQL workflows, reducing new client integration and deployment time from 2 business days to just 15 minutes.
+- **Collaborated closely with FETC** to successfully implement third-party payment gateways (LINE Pay, Jkopay, Taiwan Pay) across 30+ parking facilities nationwide, effectively expanding market reach and assisting the traditional industry in completing its digital transformation.
 
 ## SELECTED PROJECTS
 
-### Luxury Aviation Workflow POC (Independent B2B Prototype) | Node.js, Gemini API, Google Workspace
+### Luxury Aviation Workflow POC (Personal Experimental B2B Prototype) | Node.js, Gemini API, Google Workspace
 
-- Initiated an independent B2B proof-of-concept aimed at providing enterprise-grade workflow automation for luxury business travel across the aviation industry.
-- Integrated Gemini AI for natural language intent parsing and Google Workspace APIs for seamless task orchestration, demonstrating a scalable SaaS solution to assist airlines in upgrading high-end ticketing and concierge services.
+- An experimental POC developed out of a personal initiative to explore AI technologies, designed to simulate and provide an enterprise-grade workflow automation solution for luxury business travel within the aviation industry.
+- Integrated Gemini AI for natural language intent parsing and seamlessly orchestrated tasks via Google Workspace APIs, demonstrating how a SaaS technical model can assist airlines in upgrading high-end ticketing and concierge experiences.
 
 ## MENTORSHIP & TEACHING
 
